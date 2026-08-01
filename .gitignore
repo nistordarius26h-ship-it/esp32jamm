@@ -1,0 +1,16 @@
+# Arduino
+build/
+*.elf
+*.bin
+*.hex
+
+# ESP-IDF
+build/
+
+# IDEs
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
