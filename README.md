@@ -6,7 +6,7 @@
 
 ## Overview
 
-This project presents a **custom hardware platform for passive wireless signal sniffing**, built around two ESP32-WROOM-U modules with external antenna connectors. The platform is designed to capture , analyze and send 2.4GHz Wi-Fi, Bluetooth Classic (BT), Bluetooth Low Energy (BLE), and RC control signals for research and educational purposes.
+This project presents a **custom hardware platform for passive wireless signal sniffing**, built around an ESP32-WROOM-U module with external antenna connectors. The platform is designed to capture , analyze and send 2.4GHz Wi-Fi, Bluetooth Classic (BT), Bluetooth Low Energy (BLE), and RC control signals for research and educational purposes.
 
 The system is purely passive/receive-focused — it listens to and analyzes wireless traffic in its environment rather than transmitting or interfering with it.
 
