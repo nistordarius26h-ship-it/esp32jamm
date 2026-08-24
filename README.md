@@ -4,7 +4,7 @@
 ![Research](https://img.shields.io/badge/Research-Embedded%20Security-orange)
 ![License](https://img.shields.io/badge/License-MIT-red)
 
-## Overview:
+## Overview
 
 This project presents a **custom hardware platform for passive wireless signal sniffing**, built around an ESP32-WROOM-U module with external antenna connectors. The platform is designed to capture , analyze and send 2.4GHz Wi-Fi, Bluetooth Classic (BT), Bluetooth Low Energy (BLE), and RC control signals for research and educational purposes.
 
