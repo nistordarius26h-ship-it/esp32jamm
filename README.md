@@ -100,4 +100,4 @@ MIT License
 
 Nistor Darius
 
-Embedded Systems • Wireless Research • Hardware Design
+Embedded Systems • Wireless Research • Hardware Design & more
