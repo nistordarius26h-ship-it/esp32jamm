@@ -16,7 +16,7 @@ The system is purely passive/receive-focused — it listens to and analyzes wire
 
 ---
 
-## Features
+## Features:
 
 - Multi-protocol passive sniffing / sending: Wi-Fi 2.4GHz, Bluetooth Classic, BLE, and RC signals
 - External antenna support for improved reception range
