@@ -81,7 +81,7 @@ Select the correct COM port and upload the firmware to ESP32-WROOM-U module.
 
 ---
 
-## Future Work:
+## Future Work
 
 - Structured packet logging (CSV/JSON export)
 - BLE advertisement decoding and device fingerprinting
